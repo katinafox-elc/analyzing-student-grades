@@ -10,7 +10,7 @@ This project introduces you to the basics of data import, cleaning, and simple s
 - **Calculate basic statistical measures such as mean, median, and mode.**
 - **Summarize and report the characteristics of a dataset.**
 
-##Dataset Description
+## Dataset Description
 The dataset (`student_grades.csv`) contains the following columns:
 - **Student_ID:** Unique identifier for each student.
 - **First Name:** Student's first name.
