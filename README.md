@@ -20,6 +20,7 @@ The dataset (`student_grades.csv`) contains the following columns:
 - **Science:** Grade in Science.
 - **English:** Grade in English.
 - **History:** Grade in History.
+
 *Note: The dataset includes 100 observations with some missing values and data type inconsistencies to simulate real-world data. Your task is to clean and convert them appropriately.*
 
 ## Step-by-Step Tasks
