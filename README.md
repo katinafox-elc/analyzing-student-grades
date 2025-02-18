@@ -10,16 +10,17 @@ This project introduces you to the basics of data import, cleaning, and simple s
 - **Calculate basic statistical measures such as mean, median, and mode.**
 - **Summarize and report the characteristics of a dataset.**
 
-## Dataset Description
+##Dataset Description
 The dataset (`student_grades.csv`) contains the following columns:
 - **Student_ID:** Unique identifier for each student.
-- **Name:** Student's full name.
+- **First Name:** Student's first name.
+- **Last Name:** Student's last name.
+- **Grade Level:** Student's current grade level (eg. 9, 10, 11, 12).
 - **Math:** Grade in Math (may have missing values).
 - **Science:** Grade in Science.
 - **English:** Grade in English.
 - **History:** Grade in History.
-
-*Note: Some grades might be missing or stored as text values. Your task is to clean and convert them appropriately.*
+*Note: The dataset includes 100 observations with some missing values and data type inconsistencies to simulate real-world data. Your task is to clean and convert them appropriately.*
 
 ## Step-by-Step Tasks
 
